@@ -4,6 +4,7 @@ body{
     max-width: 1100px;
     margin: auto;
     padding: 20px;
+     background-image: url(https://images.pexels.com/photos/3441727/pexels-photo-3441727.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200);
 }
 h1 {
     text-align: center;
@@ -53,4 +54,5 @@ th {
 .history-item {
     padding: 5px 0;
     border-bottom: 1px solid #eee;
+
 }
